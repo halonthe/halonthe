@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuda.</h1>
+![](https://komarev.com/ghpvc/?username=your-github-username)
 
 - **Animal Dad**
 
