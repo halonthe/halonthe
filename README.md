@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuda.</h1>
-![](https://komarev.com/ghpvc/?username=your-github-username)
+<p align="center"> <a href="https://github.com/halonthe/"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=halonthe" alt="halonthe" /></a> </p>
 
 - **Animal Dad**
 
