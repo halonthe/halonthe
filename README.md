@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Yuda</h1>
+<h1 align="center">Hi 👋, I'm Yuda. A animal Dad.</h1>
 
-- 🌱 I’m currently learning **Javascript**
+- Currently learning **Javascript**
 
-- 📫 Send me email: **yudhadwi@restika.id**
+- Send me email: **yudhadwi@restika.id**
 <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
